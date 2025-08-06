@@ -1,2 +1,0 @@
-# data-wrangling-course
-
